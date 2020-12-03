@@ -17,5 +17,7 @@ _A homework in Discrete Mathematics Class_
 ### Input:
 * A test case consists of one line, which contains two integers n, e, and a string of the ciphertext (numbers separated by comma).
 * Ex: 221 5 89,99
+* Ex: 2449500764025883 9800003 1041410691569662,1091330202595797,585214278497037,1072888762781599,
 ### Output
 * Ex: HI
+* Ex: 2018
